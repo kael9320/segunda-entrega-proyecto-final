@@ -573,6 +573,16 @@ form .btn {
     .blog-list .blog-cnt {
         padding: 30px 15px;
     }
+    #slider .slide .txt h2 {
+        font-size: 32px;
+    }
+    #slider .slide .txt p {
+        font-size: 16px;
+    }
+    #slider .slide .txt .btn {
+        padding: 5px 20px;
+        font-size: 12px;
+    }
 }
 
 @media screen and (max-width: 400px) {
